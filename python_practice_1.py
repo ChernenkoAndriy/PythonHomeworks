@@ -1,0 +1,1 @@
+print("Chernenko Andriy, IPZ-2025 3 group")
